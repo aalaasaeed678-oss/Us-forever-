@@ -264,7 +264,7 @@ body {
     animation: photoAppear 1.5s ease;
 }
 
-.photo-box img {
+<img src="photo1.jpg">
 
     width: 100%;
 
@@ -589,11 +589,11 @@ body {
     </div>
 
     <h1>
-        لسه بتحبني؟ ❤️
+        لسه بتحبني؟!
     </h1>
 
     <div class="question">
-        ولا خلاص زعلت مني أوي؟ 🥺
+        ولا خلاص مليش غلاوه عندك؟
     </div>
 
     <div class="buttons">
@@ -602,7 +602,7 @@ body {
             class="choice yes"
             onclick="showStory()">
 
-            أيوه ❤️
+            أيوه
 
         </button>
 
@@ -613,7 +613,7 @@ body {
             onmouseover="runAway()"
             ontouchstart="runAway()">
 
-            لا 🙈
+            لا
 
         </button>
 
@@ -701,13 +701,13 @@ body {
 
         <br>
 
-        لأننا مش بنعرف نزعل من بعض. 🖤
+        لأن حبيبي مش بيحب يزعل مني
 
     </div>
 
     <div class="small-text">
 
-        أو يمكن... أنا مش بعرف أكون زعلانة منك أصلًا.
+        وانا والله مش بحب أزعلك ولو زعلتك ف غصب عني وحقك علي عيني ينورعيني❤️‍🩹
 
     </div>
 
@@ -724,7 +724,7 @@ body {
 
     <div class="letter-title">
 
-        طيب... اسمعني 🤍
+        خليك معايا❤️‍🩹
 
     </div>
 
@@ -797,13 +797,13 @@ body {
 
     <div class="music-title">
 
-        يمكن الأغنية تقول اللي معرفتش أقوله... 🎵
+        يمكن الأغنية تقول اللي معرفتش أقوله 🎵
 
     </div>
 
     <div class="music-text">
 
-        اسمعها للآخر... 🤍
+        اسمعها للآخر 🤍
 
     </div>
 
@@ -850,7 +850,7 @@ body {
 
         <br>
 
-        وأوعدك... عمري ما هزعلك تاني.
+        وأوعدك، عمري ما هزعلك تاني.
 
         <br>
 
