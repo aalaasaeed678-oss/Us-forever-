@@ -1,5 +1,3 @@
-# Us-forever-
-ERROR 404: Your smile not found❤️‍🩹
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
